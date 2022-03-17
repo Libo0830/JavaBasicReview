@@ -54,7 +54,7 @@ class MyThread extends Thread {
 
 class Product {
     private String productName;
-    private int productNum;
+    private volatile int productNum;
 
     public Product(){}
 
