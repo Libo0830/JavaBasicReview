@@ -1,4 +1,4 @@
-package com.lb.use;
+package com.basic.use;
 
 /**
  * 对Product的数量字段使用 volatile 简单实现生产者消费者模式

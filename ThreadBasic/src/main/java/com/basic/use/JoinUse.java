@@ -1,4 +1,4 @@
-package com.lb.use;
+package com.basic.use;
 
 /**
  * 任何地方当调用了t.join()，就必须要等待线程t执行完毕后，才能继续执行其他线程。

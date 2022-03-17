@@ -1,4 +1,4 @@
-package com.lb.use;
+package com.basic.use;
 
 public class InterruptUse {
 
