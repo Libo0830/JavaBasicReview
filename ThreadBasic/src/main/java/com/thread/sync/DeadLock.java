@@ -1,4 +1,4 @@
-package com.basic.use;
+package com.thread.sync;
 
 /**
  * 死锁示例
